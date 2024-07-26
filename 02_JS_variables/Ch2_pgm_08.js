@@ -1,4 +1,4 @@
-// Using a variable’s current value to set its new value
+//Answer:
 
 var score;
 score = 100;
@@ -9,20 +9,9 @@ score = score + 50;
 console.log("New score: " + score);
 
 console.log("Way to go!");
+score = score + 100;
+
+console.log("New score: " + score);
+console.log("Congratulation's");
 
 
-
-/* Further Adventures
- *
- * The player splats a kumquat.
- * Add code to:
- *
- * 1) Tell the player of a successful splat
- *
- * 2) Add 100 to the player's score
- *
- * 3) Show the new score
- *
- * 4) Display a message of congratulations
- *
- */
